@@ -1,15 +1,10 @@
-# Aws-Mini-Project: 
-
-First Aws Project for deployment of NodeJs website. (Youtube reference from : https://www.youtube.com/watch?v=NLmF64KdLN0&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=16 )
-                                                    (GitHub repository’s reference by : https://github.com/verma-kunal/AWS-Session )
-                                                    
 # Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
 
 1. Clone this project
 ```
-git clone https://github.com/Jorawarcs/Aws-Mini-Project
+git clone https://github.com/verma-kunal/AWS-Session.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
@@ -53,7 +48,7 @@ sudo apt update
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git](https://github.com/Jorawarcs/Aws-Mini-Project
+git clone https://github.com/verma-kunal/AWS-Session.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
